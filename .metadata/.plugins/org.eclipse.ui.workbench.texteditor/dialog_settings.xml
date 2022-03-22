@@ -2,14 +2,24 @@
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
 		<item value="false" key="isRegEx"/>
-		<item value="mobs" key="selection"/>
+		<item value="airTowerLaser" key="selection"/>
 		<item value="false" key="casesensitive"/>
 		<item value="false" key="incremental"/>
 		<item value="true" key="wrap"/>
 		<item value="false" key="wholeword"/>
 		<list key="findhistory">
-			<item value="mobs"/>
+			<item value="airTowerLaser"/>
+			<item value="8"/>
+			<item value="mob.png"/>
 			<item value="tileset_mob"/>
+			<item value="tileset_mob[0]"/>
+			<item value="      for (int i = 0; i &lt; arr.length; i++) {"/>
+			<item value="random"/>
+			<item value="spa"/>
+			<item value="spwna"/>
+			<item value="tileset_air"/>
+			<item value="tile"/>
+			<item value="mobs"/>
 			<item value="sound"/>
 			<item value="tileset_mob[0]  = new ImageIcon(&quot;res/mob.png&quot;).getImage();"/>
 			<item value="mob"/>

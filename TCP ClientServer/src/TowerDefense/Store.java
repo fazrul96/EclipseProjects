@@ -1,18 +1,18 @@
 package TowerDefense;
 import java.awt.*;
 public class Store {
-	public static int shopWidth = 8;
+	public static int shopWidth = 6;
 	public static int buttonSize = 52;
 	public static int cellSpace = 2;
 	public static int awayFromRoom = 29 ;
-	public static int iconSize = 20;
+	public static int iconSize = 30;
 	public static int iconSpace = 6;
 	public static int iconTextY = 15;
 	public static int itemIn = 4;
 	public static int heldID = -1;
 	public static int realID = -1;
-	public static int[]  buttonID = {Value.airTowerLaser, Value.airAir, Value.airAir, Value.airAir, Value.airAir, Value.airAir, Value.airAir,Value.airTrashCan};
-	public static int[] buttonPrice = {10,0,0,0,0,0,0,0};
+	public static int[]  buttonID = {Value.airTowerLaser, Value.airTowerLaser, Value.airAir, Value.airAir, Value.airAir,Value.airTrashCan};
+	public static int[] buttonPrice = {10,15,0,0,0,0,0,0};
 	public Rectangle[] button = new Rectangle[shopWidth];
 	public Rectangle buttonHealth;
 	public Rectangle buttonCoins;
